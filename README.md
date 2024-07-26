@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aradevic
+- 👋 Hi there!
 
 
 <!---
